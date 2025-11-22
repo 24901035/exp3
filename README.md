@@ -31,6 +31,7 @@ This repository contains a simple **UiPath workflow** that demonstrates the use 
 - Logs: `Repeat: <iteration>`
 
 **Example Output:**  
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 214918" src="https://github.com/user-attachments/assets/992f4a14-5dc9-4c0d-9ecc-5bce8e10550f" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 214931" src="https://github.com/user-attachments/assets/b1d1011c-c646-48c6-b659-2e0d79e337af" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 214941" src="https://github.com/user-attachments/assets/40a19461-3f2f-45d8-be1f-b42cdd30a3cf" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 110415" src="https://github.com/user-attachments/assets/b1b589de-8703-4d17-82f4-24b53fcad08d" />
+<img width="1812" height="936" alt="Screenshot 2025-11-22 114142" src="https://github.com/user-attachments/assets/a693ff1a-1427-48c9-9d2c-974db66f7ba0" />
+<img width="1899" height="1020" alt="Screenshot 2025-11-22 113655" src="https://github.com/user-attachments/assets/28702d13-55fd-4b67-b136-69f605a81ec9" />
+
